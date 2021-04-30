@@ -22,7 +22,7 @@ python-jwt==3.3.0
 pytz==2020.4
 requests==2.25.1
 requests-toolbelt==0.9.1
-rsa==4.6
+rsa==4.7
 six==1.15.0
 sqlparse==0.4.1
 urllib3==1.26.2
